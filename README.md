@@ -60,8 +60,7 @@ BluePiggy-IoT-Project/
 
 ## 📄 Documentation
 
-- [BluePiggy - Final Report (PDF)](docs/BluePiggy_relazione.pdf)
-- [Group Report (PDF)](docs/Relazione_progetto_IoT_gruppo_18.pdf)
+- [BluePiggy - Report (PDF)](docs/Relazione_progetto_IoT_gruppo_18.pdf)
 - [Presentation Slides (PPTX)](docs/BluePiggy_presentazione.pptx)
 
 ---
