@@ -1,0 +1,1 @@
+Il file "mqtt_pc.py" va caricato e avviato attraverso l'IDLE di Python 3.10.
