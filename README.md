@@ -42,7 +42,6 @@ The system leverages sensors, microcontrollers, and web-based technologies to ma
 ```
 BluePiggy-IoT-Project/
 ├── docs/             → Project reports and slides
-├── video/            → Demo video (MP4)
 ├── drawings/         → Pixel-art assets (.pixil, .png)
 ├── code/             → All project source code
 │   ├── Altervista_telegram_Code_Files/
@@ -56,7 +55,6 @@ BluePiggy-IoT-Project/
 ## 🎬 Video Demo
 
 > 📹 [Watch the BluePiggy demo on YouTube](https://www.youtube.com/watch?v=Uq52akpxfBY&ab_channel=BluePiggy)  
-> Or open `video/BluePiggy_demo.mp4` to watch the demo offline.
 
 ---
 
