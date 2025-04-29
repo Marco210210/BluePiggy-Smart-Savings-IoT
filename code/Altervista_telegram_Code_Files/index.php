@@ -2,7 +2,7 @@
     include "config.php";
     ini_set('error_reporting',E_ALL);
 //INFPRMAZIONI TELEGRAM
-    $botToken = "5315779276:AAE7M98Os25YDcKuymf2e4TQNZxqfSZgsPY";
+    $botToken = "";
     $website = "https://api.telegram.org/bot".$botToken;
 
     $FilejSon = file_get_contents("php://input");
